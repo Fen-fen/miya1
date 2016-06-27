@@ -1,0 +1,44 @@
+.m-index{
+  width:100%;
+  height:100%;
+  @include flexbox();
+  @include flex-direction(column);
+  .I-container{
+    @include flex(1);
+    width:100%;
+    position:relative;
+    overflow:hidden;
+
+  }
+
+  footer{
+    background:#FFF;
+    height:.48rem;
+    ul{
+      text-align:center;
+      @include flexbox();
+      @include box-sizing(border-box);
+      @include border(1px 0 0 0,#CCC);
+      @include align-items(center);
+      @include justify-content(center);
+      width:100%;
+      height:100%;
+      li{
+        @include flex(1);
+        font-size:.25rem;
+        i{
+          color: #CCC;
+        }
+        &:nth-child(3){
+          font-size:.35rem;
+          i{
+            color: #f66;
+          }
+        }
+        &.active i {
+          color: #f66;
+        }
+      }
+    }
+  }
+}

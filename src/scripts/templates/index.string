@@ -1,0 +1,15 @@
+<div class="m-index">
+    <div class="I-container">
+
+
+    </div>
+    <footer>
+        <ul>
+            <li class="active" action-type="switch.tabs" data-tag="home"><i class="yo-ico">&#xe68d;</i></li>
+            <li action-type="switch.tabs" data-tag="search"><i class="yo-ico">&#xe670;</i></li>
+            <li action-type="switch.tabs"><i class="yo-ico">&#xe669;</i></li>
+            <li action-type="switch.tabs" data-tag="message"><i class="yo-ico">&#xe65e;</i></li>
+            <li action-type="switch.tabs" data-tag="my"><i class="yo-ico">&#xe605;</i></li>
+        </ul>
+    </footer>
+</div>

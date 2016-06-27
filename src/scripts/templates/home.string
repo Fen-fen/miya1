@@ -1,0 +1,271 @@
+<div class="m-home">
+    <div class="banner">
+        <div class="swiper-container" id="banner-swiper">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <img src="/miya/images/banner1.bmp"/>
+                </div>
+                <div class="swiper-slide">
+                    <img src="/miya/images/banner2.bmp"/>
+                </div>
+                <div class="swiper-slide">
+                    <img src="/miya/images/banner3.bmp"/>
+                </div>
+                <div class="swiper-slide">
+                    <img src="/miya/images/banner4.bmp"/>
+                </div>
+                <div class="swiper-slide">
+                    <img src="/miya/images/banner5.bmp"/>
+                </div>
+            </div>
+        </div>
+    </div>
+    <nav class="home-nav">
+        <ul>
+            <li class="active"  action-type="tap.slide">精选</li>
+            <li action-type="tap.slide">一周最热</li>
+            <li action-type="tap.slide">设计感</li>
+            <li action-type="tap.slide">文艺</li>
+            <li action-type="tap.slide">学生党</li>
+        </ul>
+    </nav>
+    <div class="swiper-container" id="home-swiper">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide">
+                <section spa-widget="scroll">
+                    <div>
+                        <div class="pro-list">
+                            <img src="/miya/images/pic1.bmp"/>
+                            <p>【夏日必备】能装进包包里的降温神器</p>
+                            <i class="yo-ico">&#xe62c;</i>
+                            <span>收藏</span>
+                        </div>
+                        <div class="pro-list">
+                            <img src="/miya/images/pic2.bmp"/>
+                            <p>【夏日必备】能装进包包里的降温神器</p>
+                            <span>收藏</span>
+                        </div>
+                        <div class="pro-list">
+                            <img src="/miya/images/pic3.bmp"/>
+                            <p>【夏日必备】能装进包包里的降温神器</p>
+                            <span>收藏</span>
+                        </div>
+                        <div class="pro-list">
+                            <img src="/miya/images/pic4.bmp"/>
+                            <p>【夏日必备】能装进包包里的降温神器</p>
+                            <span>收藏</span>
+                        </div>
+                        <div class="pro-list">
+                            <img src="/miya/images/pic5.bmp"/>
+                            <p>【夏日必备】能装进包包里的降温神器</p>
+                            <span>收藏</span>
+                        </div>
+                        <div class="pro-list">
+                            <img src="/miya/images/pic6.bmp"/>
+                            <p>【夏日必备】能装进包包里的降温神器</p>
+                            <span>收藏</span>
+                        </div>
+                        <div class="pro-list">
+                            <img src="/miya/images/pic7.bmp"/>
+                            <p>【夏日必备】能装进包包里的降温神器</p>
+                            <span>收藏</span>
+                        </div>
+                        <div class="pro-list">
+                            <img src="/miya/images/pic8.bmp"/>
+                            <p>【夏日必备】能装进包包里的降温神器</p>
+                            <span>收藏</span>
+                        </div>
+                    </div>
+                </section>
+            </div>
+            <div class="swiper-slide">
+                <section spa-widget="scroll">
+                    <div>
+                        <div class="pro-list">
+                            <img src="/miya/images/pic9.bmp"/>
+                            <p>【夏日必备】能装进包包里的降温神器</p>
+                            <i></i>
+                            <span>收藏</span>
+                        </div>
+                        <div class="pro-list">
+                            <img src="/miya/images/pic10.bmp"/>
+                            <p>【夏日必备】能装进包包里的降温神器</p>
+                            <span>收藏</span>
+                        </div>
+                        <div class="pro-list">
+                            <img src="/miya/images/pic11.bmp"/>
+                            <p>【夏日必备】能装进包包里的降温神器</p>
+                            <span>收藏</span>
+                        </div>
+                        <div class="pro-list">
+                            <img src="/miya/images/pic12.bmp"/>
+                            <p>【夏日必备】能装进包包里的降温神器</p>
+                            <span>收藏</span>
+                        </div>
+                        <div class="pro-list">
+                            <img src="/miya/images/pic13.bmp"/>
+                            <p>【夏日必备】能装进包包里的降温神器</p>
+                            <span>收藏</span>
+                        </div>
+                        <div class="pro-list">
+                            <img src="/miya/images/pic14.bmp"/>
+                            <p>【夏日必备】能装进包包里的降温神器</p>
+                            <span>收藏</span>
+                        </div>
+                        <div class="pro-list">
+                            <img src="/miya/images/pic15.bmp"/>
+                            <p>【夏日必备】能装进包包里的降温神器</p>
+                            <span>收藏</span>
+                        </div>
+                        <div class="pro-list">
+                            <img src="/miya/images/pic16.bmp"/>
+                            <p>【夏日必备】能装进包包里的降温神器</p>
+                            <span>收藏</span>
+                        </div>
+                    </div>
+                </section>
+            </div>
+            <div class="swiper-slide">
+                <section spa-widget="scroll">
+                    <div>
+                        <div class="pro-list">
+                            <img src="/miya/images/pic17.bmp"/>
+                            <p>【夏日必备】能装进包包里的降温神器</p>
+                            <i></i>
+                            <span>收藏</span>
+                        </div>
+                        <div class="pro-list">
+                            <img src="/miya/images/pic18.bmp"/>
+                            <p>【夏日必备】能装进包包里的降温神器</p>
+                            <span>收藏</span>
+                        </div>
+                        <div class="pro-list">
+                            <img src="/miya/images/pic19.bmp"/>
+                            <p>【夏日必备】能装进包包里的降温神器</p>
+                            <span>收藏</span>
+                        </div>
+                        <div class="pro-list">
+                            <img src="/miya/images/pic20.bmp"/>
+                            <p>【夏日必备】能装进包包里的降温神器</p>
+                            <span>收藏</span>
+                        </div>
+                        <div class="pro-list">
+                            <img src="/miya/images/pic21.bmp"/>
+                            <p>【夏日必备】能装进包包里的降温神器</p>
+                            <span>收藏</span>
+                        </div>
+                        <div class="pro-list">
+                            <img src="/miya/images/pic22.bmp"/>
+                            <p>【夏日必备】能装进包包里的降温神器</p>
+                            <span>收藏</span>
+                        </div>
+                        <div class="pro-list">
+                            <img src="/miya/images/pic23.bmp"/>
+                            <p>【夏日必备】能装进包包里的降温神器</p>
+                            <span>收藏</span>
+                        </div>
+                        <div class="pro-list">
+                            <img src="/miya/images/pic24.bmp"/>
+                            <p>【夏日必备】能装进包包里的降温神器</p>
+                            <span>收藏</span>
+                        </div>
+                    </div>
+                </section>
+            </div>
+            <div class="swiper-slide">
+                <section spa-widget="scroll">
+                    <div>
+                        <div class="pro-list">
+                            <img src="/miya/images/pic25.bmp"/>
+                            <p>【夏日必备】能装进包包里的降温神器</p>
+                            <i></i>
+                            <span>收藏</span>
+                        </div>
+                        <div class="pro-list">
+                            <img src="/miya/images/pic26.bmp"/>
+                            <p>【夏日必备】能装进包包里的降温神器</p>
+                            <span>收藏</span>
+                        </div>
+                        <div class="pro-list">
+                            <img src="/miya/images/pic27.bmp"/>
+                            <p>【夏日必备】能装进包包里的降温神器</p>
+                            <span>收藏</span>
+                        </div>
+                        <div class="pro-list">
+                            <img src="/miya/images/pic28.bmp"/>
+                            <p>【夏日必备】能装进包包里的降温神器</p>
+                            <span>收藏</span>
+                        </div>
+                        <div class="pro-list">
+                            <img src="/miya/images/pic27.bmp"/>
+                            <p>【夏日必备】能装进包包里的降温神器</p>
+                            <span>收藏</span>
+                        </div>
+                        <div class="pro-list">
+                            <img src="/miya/images/pic30.bmp"/>
+                            <p>【夏日必备】能装进包包里的降温神器</p>
+                            <span>收藏</span>
+                        </div>
+                        <div class="pro-list">
+                            <img src="/miya/images/pic31.bmp"/>
+                            <p>【夏日必备】能装进包包里的降温神器</p>
+                            <span>收藏</span>
+                        </div>
+                        <div class="pro-list">
+                            <img src="/miya/images/pic32.bmp"/>
+                            <p>【夏日必备】能装进包包里的降温神器</p>
+                            <span>收藏</span>
+                        </div>
+                    </div>
+                </section>
+            </div>
+            <div class="swiper-slide">
+                <section spa-widget="scroll">
+                    <div>
+                        <div class="pro-list">
+                            <img src="/miya/images/pic33.bmp"/>
+                            <p>【夏日必备】能装进包包里的降温神器</p>
+                            <i></i>
+                            <span>收藏</span>
+                        </div>
+                        <div class="pro-list">
+                            <img src="/miya/images/pic34.bmp"/>
+                            <p>【夏日必备】能装进包包里的降温神器</p>
+                            <span>收藏</span>
+                        </div>
+                        <div class="pro-list">
+                            <img src="/miya/images/pic35.bmp"/>
+                            <p>【夏日必备】能装进包包里的降温神器</p>
+                            <span>收藏</span>
+                        </div>
+                        <div class="pro-list">
+                            <img src="/miya/images/pic36.bmp"/>
+                            <p>【夏日必备】能装进包包里的降温神器</p>
+                            <span>收藏</span>
+                        </div>
+                        <div class="pro-list">
+                            <img src="/miya/images/pic37.bmp"/>
+                            <p>【夏日必备】能装进包包里的降温神器</p>
+                            <span>收藏</span>
+                        </div>
+                        <div class="pro-list">
+                            <img src="/miya/images/pic38.bmp"/>
+                            <p>【夏日必备】能装进包包里的降温神器</p>
+                            <span>收藏</span>
+                        </div>
+                        <div class="pro-list">
+                            <img src="/miya/images/pic39.bmp"/>
+                            <p>【夏日必备】能装进包包里的降温神器</p>
+                            <span>收藏</span>
+                        </div>
+                        <div class="pro-list">
+                            <img src="/miya/images/pic40.bmp"/>
+                            <p>【夏日必备】能装进包包里的降温神器</p>
+                            <span>收藏</span>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+</div>

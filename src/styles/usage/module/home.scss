@@ -1,0 +1,81 @@
+.m-index{
+  .I-container{
+    .m-home{
+      @include flexbox();
+      @include flex-direction(column);
+      width:100%;
+      height:100%;
+      overflow:hidden;
+      .banner{
+        width:100%;
+        height:1.62rem;
+        img{
+          width:100%;
+          height:1.62rem;
+        }
+      }
+      .home-nav{
+        width:100%;
+        height:.45rem;
+        color:gray;
+        background:#FFF;
+
+        ul{
+          @include flexbox();
+          width:100%;
+          height:.45rem;
+          li{
+            @include flex(1);
+            text-align:center;
+            line-height:.45rem;
+            font-size:.12rem;
+
+            &.active{
+              color:#f66;
+              border-bottom:solid 3px #f66;
+              box-sizing: border-box;
+            }
+          }
+        }
+      }
+      #home-swiper {
+        width: 100%;
+        height:3.14rem;
+        section {
+          @include flex(1);
+          height:100%;
+          width: 100%;
+          overflow: hidden;
+          .pro-list {
+            width: 100%;
+            height: 2.4rem;
+            text-align: center;
+            img {
+              width: 100%;
+              height: 1.7rem;
+              padding-bottom:.1rem;
+            }
+            p {
+              font-size: .14rem;
+              color: #666;
+              line-height: .25rem;
+              font-family: "宋体";
+            }
+            i{
+              font-size: .13rem;
+              color: #CCC;
+              height:.35rem;
+              line-height: .35rem;
+            }
+            span {
+              font-size: .13rem;
+              color: #666;
+              height:.35rem;
+              line-height: .35rem;
+            }
+          }
+        }
+      }
+    }
+  }
+}

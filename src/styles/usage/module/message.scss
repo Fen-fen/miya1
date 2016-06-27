@@ -1,0 +1,95 @@
+.m-index {
+  .I-container {
+    .m-home {
+      @include flexbox();
+      @include flex-direction(column);
+      @include justify-content(center);
+      @include align-items(center);
+      width: 100%;
+      height: 100%;
+      .message-title{
+        width:100%;
+        height:.44rem;
+        line-height:.44rem;
+        font-size:14px;
+        text-align:center;
+        color:#666;
+        font-family:"宋体";
+        box-sizing: border-box;
+        border-bottom: solid 1px #f1f1f1;
+      }
+      .message-nav{
+        width:100%;
+        height:.44rem;
+        background: #FFF;
+        ul{
+          @include flexbox();
+          width:100%;
+          height:.44rem;
+          li{
+            @include flex(1);
+            line-height:.44rem;
+            font-size:12px;
+            font-family:"宋体";
+            color:#666;
+            text-align:center;
+            span{
+              display: block;
+              font-size:12px;
+              color:#999;
+            }
+          }
+        }
+      }
+      .message-section{
+        @include flex(1);
+        width:100%;
+        background: #f4f4f4;
+        .message-notice{
+          padding:.1rem;
+          .message-list{
+            @include flexbox();
+            width:100%;
+            height:.9rem;
+            .message-img{
+              width:.32rem;
+              height:.32rem;
+              img{
+                width:100%;
+                height:100%;
+              }
+            }
+            .message-text{
+              @include flex(1);
+              margin-left:.05rem;
+              h4{
+                margin-bottom: .05rem;
+                font-size:12px;
+                color:#666;
+              }
+              p{
+                line-height:.16rem;
+                font-size:.12rem;
+                color:#999;
+                font-family: "宋体";
+              }
+            }
+          }
+        }
+        .message-collection,.message-comment{
+          margin: 2rem auto;
+          text-align: center;
+          img{
+            width:1.32rem;
+            height:1.32rem;
+          }
+          p{
+            font-size:13px;
+            color:#999;
+            font-family: "宋体";
+          }
+        }
+      }
+    }
+  }
+}

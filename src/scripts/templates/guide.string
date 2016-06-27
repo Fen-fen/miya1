@@ -1,0 +1,13 @@
+<div class="swiper-container" id="guide-swiper">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide">
+      <img src="/miya/images/guide1.bmp">
+    </div>
+    <div class="swiper-slide">
+      <img src="/miya/images/guide2.bmp">
+    </div>
+    <div class="swiper-slide" action-type="goto.index">
+      <img src="/miya/images/guide3.bmp">
+    </div>
+  </div>
+</div>

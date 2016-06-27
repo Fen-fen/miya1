@@ -1,0 +1,153 @@
+.m-index {
+  .I-container {
+    .m-home {
+      @include flexbox();
+      @include flex-direction(column);
+      width: 100%;
+      height: 100%;
+      .top {
+        width: 100%;
+        height: .44rem;
+        background: #FFF;
+        ul {
+          @include flexbox();
+          height: 100%;
+          li {
+            height: 100%;
+            &:nth-child(1) {
+              color: #f66;
+              width: .44rem;
+              text-align: center;
+              line-height: .44rem;
+              font-size: .24rem;
+            }
+            &:nth-child(2) {
+              @include flex(1);
+              text-align: center;
+              line-height: .44rem;
+              color: #999;
+            }
+            &:nth-child(3) {
+              width: .44rem;
+              text-align: center;
+              line-height: .44rem;
+              color: #CCC;
+              font-size: .24rem;
+            }
+          }
+        }
+      }
+      .my-content {
+        @include flex(1);
+        width: 100%;
+        .my-content-box {
+          width: 100%;
+          height:100%;
+          .my-header {
+            @include flexbox();
+            width: 100%;
+            height: 1.32rem;
+            box-sizing: border-box;
+            .my-customer{
+              @include flex(1);
+              @include flexbox();
+              padding-top:.32rem;
+              padding-bottom: .5rem;
+              height: .5rem;
+              .my-img{
+                @include flex(1);
+                height: .5rem;
+                margin-left:.1rem;
+                text-align: center;
+                img{
+                  width:50px;
+                  height:50px;
+                }
+              }
+              p{
+                @include flex(1);
+                height: .5rem;
+                span{
+                  display: block;
+                  font-size:12px;
+                  color:#999;
+                  line-height: 25px;
+                  font-family: "宋体";
+                  text-align: left;
+                  &:nth-child(1){
+                    font-size:14px;
+                    color:#666;
+                  }
+                }
+              }
+            }
+            #my-fans{
+              @include flex(1);
+              @include flexbox();
+              padding-top:.32rem;
+              padding-bottom: .5rem;
+              height: .5rem;
+              li{
+                @include flex(1);
+                color:#666;
+                height: .5rem;
+                i{
+                  line-height: 25px;
+                  font-size:.12rem;
+                  color:#999;
+                }
+                span{
+                  line-height: 25px;
+                  font-size:.12rem;
+                  color:#999;
+                }
+              }
+            }
+          }
+          .my-nav {
+            width: 100%;
+            height: .44rem;
+            background: #FFF;
+            border-top: solid 1px #EEE;
+            ul {
+              @include flexbox();
+              width: 100%;
+              height: .14rem;
+              padding: .15rem 0;
+              li {
+                @include flex(1);
+                text-align: center;
+                box-sizing: border-box;
+                line-height: .14rem;
+                font-size: .12rem;
+                color: #999;
+                border-right: solid 1px #dddddd;
+                &:last-child {
+                  border: 0;
+                }
+              }
+            }
+          }
+          .my-section {
+            width: 100%;
+            height:100%;
+            #my-section-swiper{
+              p{
+                img{
+                 margin-left:.93rem;
+                  display: block;
+                  width:1.32rem;
+                  height:1.32rem;
+                }
+                font-size:.14rem;
+                color:#999;
+                text-align: center;
+                margin: 1rem auto;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,53 @@
+
+<div class="m-home">
+    <header class="message-title">消息</header>
+    <nav class="message-nav">
+        <ul>
+            <li class="active" action-type="tap.message.slide">
+                <span>通知</span>
+            </li>
+            <li action-type="tap.message.slide">
+                <span>喜欢/收藏</span>
+            </li>
+            <li action-type="tap.message.slide">
+                <span>评论</span>
+            </li>
+        </ul>
+    </nav>
+    <section class="message-section" spa-widget="scroll">
+        <div class="swiper-container" id="message-section-swiper">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <div class="message-notice">
+                        <div class="message-list">
+                            <div class="message-img">
+                                <img src="/miya/images/candy-img.png"/>
+                            </div>
+                            <div class="message-text">
+                                <h4>小糖君</h4>
+                                <p>Hello!我是小糖君，欢迎你的到来。
+                                    如果遇到任何问题你都可以在这里给我留言，不一定...
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="message-collection">
+                        <img src="/miya/images/none.png"/>
+                        <p>没有收到任何消息</p>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="message-comment">
+                        <img src="/miya/images/none.png"/>
+                        <p>没有收到任何消息</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+
+
+</div>

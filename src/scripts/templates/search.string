@@ -1,0 +1,639 @@
+<div class="m-home">
+   <header>
+       <ul>
+           <li class="yo-ico">&#xe62a;</li>
+           <li>
+              <ul id="home-nav">
+                  <li action-type="tap.search.slide" class="active">文章</li>
+                  <li action-type="tap.search.slide">单品</li>
+              </ul>
+           </li>
+           <li class="yo-ico">&#xe617;</li>
+       </ul>
+   </header>
+    <div class="search-contant"   spa-widget="scroll">
+        <div class="swiper-container" id="search-nav-swiper">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                        <div class="search-banner">
+            <div class="swiper-container" id="search-swiper">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <img src="/miya/images/banner1.bmp"/>
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="/miya/images/banner2.bmp"/>
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="/miya/images/banner3.bmp"/>
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="/miya/images/banner4.bmp"/>
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="/miya/images/banner5.bmp"/>
+                    </div>
+                </div>
+            </div>
+        </div>
+                        <nav class="search-nav">
+                            <ul>
+                <li><p>用户原创</p></li>
+                <li></li>
+                <li>
+                    <p>
+                        <span class="active"  action-type="tap.navchild.slide">最热</span>
+                        <span  action-type="tap.navchild.slide">最新</span>
+                    </p>
+                </li>
+            </ul>
+                        </nav>
+                    <div class="swiper-container" id="search-navchild-swiper">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <section class="search-section">
+                                    <div class="search-text-list">
+                                        <div class="text-list">
+                                        <h3>高一学生狗为你分享超日常化妆品</h3>
+                                        <p>
+                                            <i>99年妹子</i>
+                                            <i>坐标广东</i>
+                                        </p>
+                                            <span>
+                                                <i class="yo-ico">&#xe605;</i>
+                                                <i>RoseShily</i>
+                                                <i>|</i>
+                                                <i>55分钟前</i>
+                                            </span>
+                                    </div>
+                                        <div class="img-list">
+                                        <img src="/miya/images/text1.bmp"/>
+                                        <p>
+                                                <span>
+                                                    <i class="yo-ico">&#xe603;</i>
+                                                    <b>29546</b>
+                                                </span>
+                                                <span>
+                                                    <i class="yo-ico">&#xe724;</i>
+                                                    <b>277</b>
+                                                </span>
+                                        </p>
+                                    </div>
+                                    </div>
+                                    <div class="search-text-list">
+                                        <div class="text-list">
+                                            <h3>高一学生狗为你分享超日常化妆品</h3>
+                                            <p>
+                                                <i>99年妹子</i>
+                                                <i>坐标广东</i>
+                                            </p>
+                                            <span>
+                                                <i class="yo-ico">&#xe605;</i>
+                                                <i>RoseShily</i>
+                                                <i>|</i>
+                                                <i>55分钟前</i>
+                                            </span>
+                                        </div>
+                                        <div class="img-list">
+                                            <img src="/miya/images/text2.bmp"/>
+                                            <p>
+                                                <span>
+                                                    <i class="yo-ico">&#xe603;</i>
+                                                    <b>29546</b>
+                                                </span>
+                                                <span>
+                                                    <i class="yo-ico">&#xe724;</i>
+                                                    <b>277</b>
+                                                </span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="search-text-list">
+                                        <div class="text-list">
+                                            <h3>高一学生狗为你分享超日常化妆品</h3>
+                                            <p>
+                                                <i>99年妹子</i>
+                                                <i>坐标广东</i>
+                                            </p>
+                                            <span>
+                                                <i class="yo-ico">&#xe605;</i>
+                                                <i>RoseShily</i>
+                                                <i>|</i>
+                                                <i>55分钟前</i>
+                                            </span>
+                                        </div>
+                                        <div class="img-list">
+                                            <img src="/miya/images/text3.bmp"/>
+                                            <p>
+                                                <span>
+                                                    <i class="yo-ico">&#xe603;</i>
+                                                    <b>29546</b>
+                                                </span>
+                                                <span>
+                                                    <i class="yo-ico">&#xe724;</i>
+                                                    <b>277</b>
+                                                </span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="search-text-list">
+                                        <div class="text-list">
+                                            <h3>高一学生狗为你分享超日常化妆品</h3>
+                                            <p>
+                                                <i>99年妹子</i>
+                                                <i>坐标广东</i>
+                                            </p>
+                                            <span>
+                                                <i class="yo-ico">&#xe605;</i>
+                                                <i>RoseShily</i>
+                                                <i>|</i>
+                                                <i>55分钟前</i>
+                                            </span>
+                                        </div>
+                                        <div class="img-list">
+                                            <img src="/miya/images/text4.bmp"/>
+                                            <p>
+                                                <span>
+                                                    <i class="yo-ico">&#xe603;</i>
+                                                    <b>29546</b>
+                                                </span>
+                                                <span>
+                                                    <i class="yo-ico">&#xe724;</i>
+                                                    <b>277</b>
+                                                </span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="search-text-list">
+                                        <div class="text-list">
+                                            <h3>高一学生狗为你分享超日常化妆品</h3>
+                                            <p>
+                                                <i>99年妹子</i>
+                                                <i>坐标广东</i>
+                                            </p>
+                                            <span>
+                                                <i class="yo-ico">&#xe605;</i>
+                                                <i>RoseShily</i>
+                                                <i>|</i>
+                                                <i>55分钟前</i>
+                                            </span>
+                                        </div>
+                                        <div class="img-list">
+                                            <img src="/miya/images/text5.bmp"/>
+                                            <p>
+                                                <span>
+                                                    <i class="yo-ico">&#xe603;</i>
+                                                    <b>29546</b>
+                                                </span>
+                                                <span>
+                                                    <i class="yo-ico">&#xe724;</i>
+                                                    <b>277</b>
+                                                </span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="search-text-list">
+                                        <div class="text-list">
+                                            <h3>高一学生狗为你分享超日常化妆品</h3>
+                                            <p>
+                                                <i>99年妹子</i>
+                                                <i>坐标广东</i>
+                                            </p>
+                                            <span>
+                                                <i class="yo-ico">&#xe605;</i>
+                                                <i>RoseShily</i>
+                                                <i>|</i>
+                                                <i>55分钟前</i>
+                                            </span>
+                                        </div>
+                                        <div class="img-list">
+                                            <img src="/miya/images/text6.bmp"/>
+                                            <p>
+                                                <span>
+                                                    <i class="yo-ico">&#xe603;</i>
+                                                    <b>29546</b>
+                                                </span>
+                                                <span>
+                                                    <i class="yo-ico">&#xe724;</i>
+                                                    <b>277</b>
+                                                </span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="search-text-list">
+                                        <div class="text-list">
+                                            <h3>高一学生狗为你分享超日常化妆品</h3>
+                                            <p>
+                                                <i>99年妹子</i>
+                                                <i>坐标广东</i>
+                                            </p>
+                                            <span>
+                                                <i class="yo-ico">&#xe605;</i>
+                                                <i>RoseShily</i>
+                                                <i>|</i>
+                                                <i>55分钟前</i>
+                                            </span>
+                                        </div>
+                                        <div class="img-list">
+                                            <img src="/miya/images/text7.bmp"/>
+                                            <p>
+                                                <span>
+                                                    <i class="yo-ico">&#xe603;</i>
+                                                    <b>29546</b>
+                                                </span>
+                                                <span>
+                                                    <i class="yo-ico">&#xe724;</i>
+                                                    <b>277</b>
+                                                </span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </section>
+                            </div>
+                            <div class="swiper-slide">
+                                <section class="search-section">
+                                    <div class="search-text-list">
+                                        <div class="text-list">
+                                            <h3>高一学生狗为你分享超日常化妆品</h3>
+                                            <p>
+                                                <i>99年妹子</i>
+                                                <i>坐标广东</i>
+                                            </p>
+                                            <span>
+                                                <i class="yo-ico">&#xe605;</i>
+                                                <i>RoseShily</i>
+                                                <i>|</i>
+                                                <i>55分钟前</i>
+                                            </span>
+                                        </div>
+                                        <div class="img-list">
+                                            <img src="/miya/images/text7.bmp"/>
+                                            <p>
+                                                <span>
+                                                    <i class="yo-ico">&#xe603;</i>
+                                                    <b>29546</b>
+                                                </span>
+                                                <span>
+                                                    <i class="yo-ico">&#xe75f;</i>
+                                                    <b>277</b>
+                                                </span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="search-text-list">
+                                        <div class="text-list">
+                                            <h3>高一学生狗为你分享超日常化妆品</h3>
+                                            <p>
+                                                <i>99年妹子</i>
+                                                <i>坐标广东</i>
+                                            </p>
+                                            <span>
+                                                <i class="yo-ico">&#xe605;</i>
+                                                <i>RoseShily</i>
+                                                <i>|</i>
+                                                <i>55分钟前</i>
+                                            </span>
+                                        </div>
+                                        <div class="img-list">
+                                            <img src="/miya/images/text6.bmp"/>
+                                            <p>
+                                                <span>
+                                                    <i class="yo-ico">&#xe603;</i>
+                                                    <b>29546</b>
+                                                </span>
+                                                <span>
+                                                    <i class="yo-ico">&#xe75f;</i>
+                                                    <b>277</b>
+                                                </span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="search-text-list">
+                                        <div class="text-list">
+                                            <h3>高一学生狗为你分享超日常化妆品</h3>
+                                            <p>
+                                                <i>99年妹子</i>
+                                                <i>坐标广东</i>
+                                            </p>
+                                            <span>
+                                                <i class="yo-ico">&#xe605;</i>
+                                                <i>RoseShily</i>
+                                                <i>|</i>
+                                                <i>55分钟前</i>
+                                            </span>
+                                        </div>
+                                        <div class="img-list">
+                                            <img src="/miya/images/text5.bmp"/>
+                                            <p>
+                                                <span>
+                                                    <i class="yo-ico">&#xe603;</i>
+                                                    <b>29546</b>
+                                                </span>
+                                                <span>
+                                                    <i class="yo-ico">&#xe75f;</i>
+                                                    <b>277</b>
+                                                </span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="search-text-list">
+                                        <div class="text-list">
+                                            <h3>高一学生狗为你分享超日常化妆品</h3>
+                                            <p>
+                                                <i>99年妹子</i>
+                                                <i>坐标广东</i>
+                                            </p>
+                                            <span>
+                                                <i class="yo-ico">&#xe605;</i>
+                                                <i>RoseShily</i>
+                                                <i>|</i>
+                                                <i>55分钟前</i>
+                                            </span>
+                                        </div>
+                                        <div class="img-list">
+                                            <img src="/miya/images/text4.bmp"/>
+                                            <p>
+                                                <span>
+                                                    <i class="yo-ico">&#xe603;</i>
+                                                    <b>29546</b>
+                                                </span>
+                                                <span>
+                                                    <i class="yo-ico">&#xe75f;</i>
+                                                    <b>277</b>
+                                                </span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="search-text-list">
+                                        <div class="text-list">
+                                            <h3>高一学生狗为你分享超日常化妆品</h3>
+                                            <p>
+                                                <i>99年妹子</i>
+                                                <i>坐标广东</i>
+                                            </p>
+                                            <span>
+                                                <i class="yo-ico">&#xe605;</i>
+                                                <i>RoseShily</i>
+                                                <i>|</i>
+                                                <i>55分钟前</i>
+                                            </span>
+                                        </div>
+                                        <div class="img-list">
+                                            <img src="/miya/images/text3.bmp"/>
+                                            <p>
+                                                <span>
+                                                    <i class="yo-ico">&#xe603;</i>
+                                                    <b>29546</b>
+                                                </span>
+                                                <span>
+                                                    <i class="yo-ico">&#xe75f;</i>
+                                                    <b>277</b>
+                                                </span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="search-text-list">
+                                        <div class="text-list">
+                                            <h3>高一学生狗为你分享超日常化妆品</h3>
+                                            <p>
+                                                <i>99年妹子</i>
+                                                <i>坐标广东</i>
+                                            </p>
+                                            <span>
+                                                <i class="yo-ico">&#xe605;</i>
+                                                <i>RoseShily</i>
+                                                <i>|</i>
+                                                <i>55分钟前</i>
+                                            </span>
+                                        </div>
+                                        <div class="img-list">
+                                            <img src="/miya/images/text2.bmp"/>
+                                            <p>
+                                                <span>
+                                                    <i class="yo-ico">&#xe603;</i>
+                                                    <b>29546</b>
+                                                </span>
+                                                <span>
+                                                    <i class="yo-ico">&#xe75f;</i>
+                                                    <b>277</b>
+                                                </span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="search-text-list">
+                                        <div class="text-list">
+                                            <h3>高一学生狗为你分享超日常化妆品</h3>
+                                            <p>
+                                                <i>99年妹子</i>
+                                                <i>坐标广东</i>
+                                            </p>
+                                            <span>
+                                                <i class="yo-ico">&#xe605;</i>
+                                                <i>RoseShily</i>
+                                                <i>|</i>
+                                                <i>55分钟前</i>
+                                            </span>
+                                        </div>
+                                        <div class="img-list">
+                                            <img src="/miya/images/text1.bmp"/>
+                                            <p>
+                                                <span>
+                                                    <i class="yo-ico">&#xe603;</i>
+                                                    <b>29546</b>
+                                                </span>
+                                                <span>
+                                                    <i class="yo-ico">&#xe75f;</i>
+                                                    <b>277</b>
+                                                </span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="swiper-slide">
+                        <div class="search-single">
+                            <div class="search-single-nav">
+                                <i class="yo-ico">&#xe659;</i>
+                                <span>分类</span>
+                            </div>
+                            <div class="swiper-container" id="search-single-banner">
+                                <div class="swiper-wrapper">
+                                    <div class="swiper-slide">
+                                        <div class="search-single-banner">
+                                            <ul>
+                                                <li>
+                                                    <img src="/miya/images/single1.png"/>
+                                                </li>
+                                                <li></li>
+                                                <li>
+                                                    <img src="/miya/images/single2.png"/>
+                                                </li>
+                                            </ul>
+                                            <ul>
+                                                <li>
+                                                    <img src="/miya/images/single3.png"/>
+                                                </li>
+                                                <li></li>
+                                                <li>
+                                                    <img src="/miya/images/single4.png"/>
+                                                </li>
+                                            </ul>
+                                            <ul>
+                                                <li>
+                                                    <img src="/miya/images/single5.png"/>
+                                                </li>
+                                                <li></li>
+                                                <li>
+                                                    <img src="/miya/images/single6.png"/>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="search-single-banner">
+                                            <ul>
+                                                <li>
+                                                    <img src="/miya/images/single4.png"/>
+                                                </li>
+                                                <li></li>
+                                                <li>
+                                                    <img src="/miya/images/single6.png"/>
+                                                </li>
+                                            </ul>
+                                            <ul>
+                                                <li>
+                                                    <img src="/miya/images/single5.png"/>
+                                                </li>
+                                                <li></li>
+                                                <li>
+                                                    <img src="/miya/images/single2.png"/>
+                                                </li>
+                                            </ul>
+                                            <ul>
+                                                <li>
+                                                    <img src="/miya/images/single3.png"/>
+                                                </li>
+                                                <li></li>
+                                                <li>
+                                                    <img src="/miya/images/single1.png"/>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div id="search-single-list">
+                                <ul>
+                                                <li>
+                                                    <img src="/miya/images/single7.png"/>
+                                                </li>
+                                                <li>
+                                                    <img src="/miya/images/single11.png"/>
+                                                </li>
+                                                <li>
+                                                    <img src="/miya/images/single8.png"/>
+                                                </li>
+                                            </ul>
+                                <ul>
+                                                <li>
+                                                    <img src="/miya/images/single9.png"/>
+                                                </li>
+                                                <li>
+                                                    <img src="/miya/images/single11.png"/>
+                                                </li>
+                                                <li>
+                                                    <img src="/miya/images/single10.png"/>
+                                                </li>
+                                            </ul>
+                                <ul>
+                                                <li>
+                                                    <img src="/miya/images/single11.png"/>
+                                                </li>
+                                                <li>
+                                                    <img src="/miya/images/single11.png"/>
+                                                </li>
+                                                <li>
+                                                    <img src="/miya/images/single7.png"/>
+                                                </li>
+                                            </ul>
+                                <ul>
+                                    <li>
+                                        <img src="/miya/images/single7.png"/>
+                                    </li>
+                                    <li>
+                                        <img src="/miya/images/single11.png"/>
+                                    </li>
+                                    <li>
+                                        <img src="/miya/images/single8.png"/>
+                                    </li>
+                                </ul>
+                                <ul>
+                                    <li>
+                                        <img src="/miya/images/single9.png"/>
+                                    </li>
+                                    <li>
+                                        <img src="/miya/images/single11.png"/>
+                                    </li>
+                                    <li>
+                                        <img src="/miya/images/single10.png"/>
+                                    </li>
+                                </ul>
+                                <ul>
+                                    <li>
+                                        <img src="/miya/images/single11.png"/>
+                                    </li>
+                                    <li>
+                                        <img src="/miya/images/single11.png"/>
+                                    </li>
+                                    <li>
+                                        <img src="/miya/images/single7.png"/>
+                                    </li>
+                                </ul>
+                                <ul>
+                                    <li>
+                                        <img src="/miya/images/single7.png"/>
+                                    </li>
+                                    <li>
+                                        <img src="/miya/images/single11.png"/>
+                                    </li>
+                                    <li>
+                                        <img src="/miya/images/single8.png"/>
+                                    </li>
+                                </ul>
+                                <ul>
+                                    <li>
+                                        <img src="/miya/images/single9.png"/>
+                                    </li>
+                                    <li>
+                                        <img src="/miya/images/single11.png"/>
+                                    </li>
+                                    <li>
+                                        <img src="/miya/images/single10.png"/>
+                                    </li>
+                                </ul>
+                                <ul>
+                                    <li>
+                                        <img src="/miya/images/single11.png"/>
+                                    </li>
+                                    <li>
+                                        <img src="/miya/images/single11.png"/>
+                                    </li>
+                                    <li>
+                                        <img src="/miya/images/single7.png"/>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>

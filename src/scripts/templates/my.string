@@ -1,0 +1,73 @@
+<div class="m-home">
+    <div class="top">
+        <ul>
+            <li class="yo-ico">&#xe62f;</li>
+            <li>用户昵称</li>
+            <li class="yo-ico">&#xe687;</li>
+        </ul>
+    </div>
+    <div class="my-content"  spa-widget="scroll">
+        <div class="my-content-box">
+            <header class="my-header">
+                <div class="my-customer">
+                    <div class="my-img">
+                        <img src="/miya/images/customer.png"/>
+                    </div>
+                    <p>
+                        <span>海绵宝宝</span>
+                        <span>想要的生活</span>
+                    </p>
+                </div>
+                <ul id="my-fans">
+                    <li>
+                        <i class="yo-ico">&#xe62c;</i>
+                        <span>获赞</span>
+                    </li>
+                    <li>
+                        <i class="yo-ico">&#xe62c;</i>
+                        <span>关注</span>
+                    </li>
+                    <li>
+                        <i class="yo-ico">&#xe62c;</i>
+                        <span>粉丝</span>
+                    </li>
+                </ul>
+
+
+            </header>
+            <nav class="my-nav">
+                <ul>
+                    <li action-type="tap.my.slide">单品</li>
+                    <li action-type="tap.my.slide">清单</li>
+                    <li action-type="tap.my.slide">发布</li>
+                </ul>
+            </nav>
+
+            <section class="my-section">
+                <div class="swiper-container" id="my-section-swiper">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <p>
+                                <img src="/miya/images/none.png"/>
+                                你喜欢的单品
+                            </p>
+                        </div>
+                        <div class="swiper-slide">
+                            <p>
+                                <img src="/miya/images/none.png"/>
+                                你的清单
+                            </p>
+                        </div>
+                        <div class="swiper-slide">
+                            <p>
+                                <img src="/miya/images/none.png"/>
+                                你发布的帖子会在这里
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+            </section>
+        </div>
+    </div>
+</div>
